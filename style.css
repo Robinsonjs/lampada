@@ -1,0 +1,19 @@
+.todo-container{
+    text-align: center;
+    background-color: #ddd;
+    border: black;
+    
+}
+button.on{
+   color: green;
+   border-color: black;
+   border-radius: 3px;
+   
+   
+}
+
+button.off{
+    color: red;
+    border-color: black;
+    border-radius: 3px;
+}
